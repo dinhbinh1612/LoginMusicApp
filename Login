@@ -1,0 +1,22 @@
+[
+    {
+        "username": "musiclover123",
+        "password": "password123",
+        "email": "musiclover123@example.com"
+    },
+    {
+        "username": "melodyfan",
+        "password": "melody2024",
+        "email": "melodyfan@example.com"
+    },
+    {
+        "username": "beatsking",
+        "password": "beatsrule",
+        "email": "beatsking@example.com"
+    },
+    {
+        "username": "harmonyqueen",
+        "password": "queenofharmony",
+        "email": "harmonyqueen@example.com"
+    }
+]
